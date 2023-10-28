@@ -1,7 +1,4 @@
----
-created: 2023-10-28T19:56
-updated: 2023-10-28T22:37
----
+# Styling my Terminals using starship
 
 I recently discovered the new windows terminal, which has great features for using multiple different shells. 
 I can use powersehll, cmd and my wsl systems from there with ease. 
